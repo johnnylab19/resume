@@ -1,5 +1,6 @@
 # Johnny LaBranche
-![alt text for screen readers](/volumes/eoda/resume/squid.jpeg "Text to show on mouseover")
+
+<img src="Squid.jpeg" alt="A giant squid for ya">
 
 ### Education:
 
@@ -10,3 +11,4 @@
 [Western Washington University](https://www.wwu.edu/) 2019-present
 
 [University of Washington Friday Harbor Labs](https://fhl.uw.edu/) 2021-2021
+# Resume
