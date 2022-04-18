@@ -1,6 +1,7 @@
 # Johnny LaBranche
 
-<img src="Squid.jpeg" alt="A giant squid for ya">
+<img src="Squid.jpeg" alt="A giant squid for ya"
+     style="width:200px;"/>
 
 ### Education:
 
